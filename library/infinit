@@ -1,0 +1,19 @@
+# this file is generated via https://github.com/Dimrok/id/blob/403a02e3dbda4266fd869b179b7f5aed52b21d77/generate-stackbrew-library.sh
+Maintainers: Antony Mechin <antony.mechin@docker.com> (@Dimrok)
+GitRepo: https://github.com/Dimrok/id.git
+
+Tags: 0.7.2-debian, 0.7.2
+GitCommit: 189069a0d30bcd7d385cae9a76083582ecc30a5b
+Directory: 0.7.2/debian
+
+Tags: 0.7.3-debian
+GitCommit: 189069a0d30bcd7d385cae9a76083582ecc30a5b
+Directory: 0.7.3/debian
+
+Tags: 0.7.3-centos
+GitCommit: 189069a0d30bcd7d385cae9a76083582ecc30a5b
+Directory: 0.7.3/centos
+
+Tags: 0.7.3-alpine, 0.7.3, latest
+GitCommit: 189069a0d30bcd7d385cae9a76083582ecc30a5b
+Directory: 0.7.3/alpine
